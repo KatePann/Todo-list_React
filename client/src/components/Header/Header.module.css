@@ -1,0 +1,8 @@
+.root{
+    height: 80px;
+    font-size: 54px;
+    color: #fff;
+    background-color: #abcdef ;
+    display: flex;
+    justify-content: center;
+}
